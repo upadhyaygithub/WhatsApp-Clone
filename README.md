@@ -1,23 +1,7 @@
-# WhatsApp-Clone
-Created a Full Stack Web App WhatsApp-Clone kind of a Personal Room. Tech Stack Use -> Vue , Vue+Vite , Express , Node.JS, TailwindCSS, FireBase, Google-CLoud-Authentication
-#App SetUp 
-# Generate an API KEY from Google-cloud.
-# Add Your New API KEY to the Script inside/src/main.js
+# Vue 3 + Vite
 
-app.use(vue3GoogleLogin, {
-    clientId: "Your API ",
-});
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-# SetUp firebase (firestore)
-npm i
+## Recommended IDE Setup
 
-npm run dev
-
-
-# Start to the Backend
-
-cd backend
-
-npm i
-
-npm run watch
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
